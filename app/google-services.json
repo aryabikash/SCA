@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "223525578418",
+    "firebase_url": "https://sca-new.firebaseio.com",
+    "project_id": "sca-new",
+    "storage_bucket": "sca-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223525578418:android:70c4cfdd0972d37abe0bab",
+        "android_client_info": {
+          "package_name": "com.example.sca_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223525578418-0l6i8akgn24etpjip3jgg629omm9qq94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc3vjRp2P99rjnNmclOYTluYLMqBYokLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223525578418-0l6i8akgn24etpjip3jgg629omm9qq94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

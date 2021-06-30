@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@android:color/white"
+    android:layout_height="match_parent">
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Crop Name"
+        android:id="@+id/et_crop"
+        android:layout_margin="4dp"
+        android:paddingLeft="10dp"
+        android:textColor="@android:color/black"/>
+
+    <EditText
+        android:id="@+id/et_area"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:hint="Area"
+        android:paddingLeft="10dp"
+        android:textColor="@android:color/black" />
+
+    <EditText
+        android:id="@+id/et_date"
+        android:layout_width="401dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:hint="Date"
+        android:paddingLeft="10dp"
+        android:textColor="@android:color/black" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:text="book"
+        android:layout_margin="10dp"
+        android:background="#830E33"
+        android:textColor="@android:color/black"
+        android:textSize="20sp"
+        android:layout_marginTop="20dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_cp"/>
+
+
+</LinearLayout>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="Profile"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        app:showAsAction="always"
+        android:id="@+id/profile_bottom"/>
+
+    <item android:title="Book"
+        android:icon="@drawable/ic_baseline_book_24"
+        app:showAsAction="always"
+        android:id="@+id/book_bottom"/>
+
+
+    <item android:title="Status"
+        android:icon="@drawable/ic_baseline_contact_phone_24"
+        app:showAsAction="always"
+        android:id="@+id/contact_bottom"/>
+
+
+    <item android:title="Info"
+        android:icon="@drawable/ic_baseline_info_24"
+        app:showAsAction="always"
+        android:id="@+id/info_bottom"/>
+</menu>

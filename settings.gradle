@@ -1,0 +1,3 @@
+include ':app:menu'
+include ':app'
+rootProject.name = "SCA_NEW"
